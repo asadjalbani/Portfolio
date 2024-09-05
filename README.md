@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Asad Ahmed
 
 <img src ="C:\Users\Duashah.2000\Portfolio\src\assets\asadportfolio.png" />
  
