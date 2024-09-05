@@ -32,7 +32,7 @@ export function About() {
           <p>
           Let's create something amazing together! 🚀</p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
+        {/* <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
@@ -86,11 +86,11 @@ export function About() {
               <img src={jsIcon} alt="JavaScript" />
             </ScrollAnimation>
           </div>
-        </div>
+        </div> */}
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.20 * 1000}>
-          <img src={AsadAhmed} alt="Vinayak Singh" />
+          <img src={AsadAhmed} alt="Asad Ahmed" />
         </ScrollAnimation>
       </div>
     </Container>

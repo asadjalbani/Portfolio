@@ -4,6 +4,7 @@ import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
+import { Skillset } from "../Skillset/Skillset";
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -258,6 +259,7 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Project></Project>
+      <Skillset></Skillset>
       <Contact></Contact>
     </Container>
   );

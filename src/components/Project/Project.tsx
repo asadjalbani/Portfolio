@@ -81,9 +81,9 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
+                <li>Python</li>
+                <li>open Ai</li>
+                <li>Generator</li>
               </ul>
             </footer>
           </div>
